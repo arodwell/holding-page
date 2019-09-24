@@ -1,0 +1,11 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Display:400,500,800,900&display=swap');
+
+body {
+background: #16222a;
+background: -moz-linear-gradient(top,  #16222a 0%, #3a6073 100%);
+background: -webkit-linear-gradient(top,  #16222a 0%,#3a6073 100%);
+background: linear-gradient(to bottom,  #16222a 0%,#3a6073 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#16222a', endColorstr='#3a6073',GradientType=0 );
+font-family: 'Big Shoulders Display', cursive;
+}
